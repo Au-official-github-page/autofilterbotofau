@@ -2,7 +2,7 @@
   <img src="https://telegra.ph/file/ace639327ec7c112133c1.jpg" alt="GOLO">
 </p>
 <h1 align="center">
-  <b> Lazy Princess BOT </b>
+  <b> GOLO BOT </b>
 </h1>
 
 ## ⚡️Features
