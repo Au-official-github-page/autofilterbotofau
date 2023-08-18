@@ -56,6 +56,14 @@ You can deploy this bot anywhere.
 
 <a target="_blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/LazyDeveloperr/LazyPrincess&branch=master&name=lazyprincessbot"><img alt="Deploy to Koyeb" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg"></a>
 
+# My Awesome Project
+
+Welcome to my awesome project! To deploy it using Vercel, simply click the button below:
+
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/yourusername/your-repo)
+
+## Getting Started
+
 
 <details><summary>Deploy To Heroku</summary>
 <p>
