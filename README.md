@@ -60,7 +60,8 @@ You can deploy this bot anywhere.
 
 Welcome to my awesome project! To deploy it using Vercel, simply click the button below:
 
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/Au-official-github-page/your-repo)
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/Au-official-github-page/autofilterbotofau
+)
 
 ## Getting Started
 
